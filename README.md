@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neel Patel</h1>
-<h3 align="center">A passionate developer of Web3 and blockchain technology</h3>
+<h3 align="center">A passionate developer of nodejs and mern stack development and blockchain technology</h3>
 
 <p align="left"> <a href="https://twitter.com/patelneel045" target="blank"><img src="https://img.shields.io/twitter/follow/patelneel045?logo=twitter&style=for-the-badge" alt="patelneel045" /></a> </p>
 
